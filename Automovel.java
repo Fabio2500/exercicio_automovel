@@ -9,7 +9,7 @@ class Automovel{
        
         float distancia;
 		
-	    System.out.println("digite a marca do automovel:");
+        System.out.println("digite a marca do automovel:");
         Automovel1.marca = sc.next();
         System.out.println("digite o modelo do automovel:");
         Automovel1.modelo = sc.next();
